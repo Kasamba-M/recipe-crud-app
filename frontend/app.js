@@ -1,4 +1,4 @@
-const API = 'http://localhost:3000/api/recipes';
+const API =  'https://kasamba-recipe-api.onrender.com/api/recipes';
 
 async function loadRecipes() {
   try {
